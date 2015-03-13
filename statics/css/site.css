@@ -10,8 +10,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 }
 body {
     margin: 0;
-    font-family: "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 20px;
     color: #555555;
     background: #eee;
