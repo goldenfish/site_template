@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="003333ed-6bbf-463c-8a89-11420cd5b383" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/images/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/images/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/js/jquery-1.11.1.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/statics/js/scrollup/2.4.0/jquery.scrollUp.min.js" afterPath="$PROJECT_DIR$/statics/js/scrollup/2.4.0/jquery.scrollUp.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/statics/css/site.css" afterPath="$PROJECT_DIR$/statics/css/site.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="site_template.iws" />
@@ -31,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="720" column="26" selection-start="31397" selection-end="31397" vertical-scroll-proportion="0.74517375" vertical-offset="15261" max-vertical-offset="16038">
+            <state line="721" column="16" selection-start="31360" selection-end="31360" vertical-scroll-proportion="0.46203345" vertical-offset="15503" max-vertical-offset="16324">
               <folding />
             </state>
           </provider>
@@ -67,7 +69,7 @@
       <file leaf-file-name="site.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/statics/css/site.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1166">
+            <state line="49" column="0" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-20.88" vertical-offset="556" max-vertical-offset="1364">
               <folding />
             </state>
           </provider>
@@ -157,6 +159,36 @@
               <option name="myItemId" value="statics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrollup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.4.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -173,6 +205,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,6 +243,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\TODOs\bootstrap\site_template\statics\images" />
+      <recent name="E:\TODOs\bootstrap\site_template\statics\js" />
       <recent name="E:\dev\p4_workspace\website\site_template\statics\js" />
       <recent name="E:\dev\p4_workspace\website\site_template" />
     </key>
@@ -302,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/statics/css/site.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1166">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
@@ -323,9 +367,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/statics/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-20.88" vertical-offset="556" max-vertical-offset="1364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="26" selection-start="31397" selection-end="31397" vertical-scroll-proportion="0.74517375" vertical-offset="15261" max-vertical-offset="16038">
+        <state line="721" column="16" selection-start="31360" selection-end="31360" vertical-scroll-proportion="0.46203345" vertical-offset="15503" max-vertical-offset="16324">
           <folding />
         </state>
       </provider>

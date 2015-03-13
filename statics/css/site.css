@@ -46,3 +46,12 @@ h2 {
     font-size: 17px;
     font-weight: normal;
 }
+
+
+#scrollUp {
+    background-image: url("../images/top.png");
+    bottom: 100px;
+    right: 36px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
+}
